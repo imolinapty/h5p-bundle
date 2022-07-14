@@ -8,7 +8,7 @@ Installation
 
 Install with composer
 ``` bash
-composer require emmedy/h5p-bundle
+composer require imolinapty/h5p-bundle
 ```
 
 Enable the bundle in `AppKernel.php`
