@@ -1,7 +1,7 @@
 {
-  "name": "emmedy/h5p-bundle",
+  "name": "imolinapty/h5p-bundle",
   "type": "symfony-bundle",
-  "description": "H5P Bundle for Symfony",
+  "description": "H5P Bundle for Symfony, fork from emmedy/h5p-bundle",
   "keywords": ["h5p", "symfony", "interactive", "content", "php"],
   "license": "MIT",
   "authors": [
